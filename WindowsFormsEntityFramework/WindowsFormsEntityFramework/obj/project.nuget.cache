@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ye2UhTuJXk6LzVo874ItJQFL3DKUuWY+WymZCuEZ6Dcs0cr5gMAY702msboolx+3T0JqNqSJ9fBG5ZlPFHXgEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ace_c\\Documents\\Visual Studio 2019\\Tutoriales\\CRUDWindowsFormsEntityFrameWork\\WindowsFormsEntityFramework\\WindowsFormsEntityFramework\\WindowsFormsEntityFramework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ace_c\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
